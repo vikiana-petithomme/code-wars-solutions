@@ -27,5 +27,6 @@ Week 3:  8KYU
 - Is It a Palindrome?
 - Sum Arrays
 - Sentence Smash
+- Beginner Series #4 Cockroach
 
 Week 4:  7KYU
