@@ -1,6 +1,6 @@
-# Code Wars
+# Code Wars Solutions
 
-A place to store all my codewar solutions as i sharpen my skills
+A place to store all my codewar solutions as I sharpen my skills!
 
 ## Katas
 
