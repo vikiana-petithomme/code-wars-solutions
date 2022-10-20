@@ -18,7 +18,7 @@ Week 2:  8KYU
 - Grasshopper -  Messi goal functions
 - Reversed Sequence
 - What's the Real Floor?
-- returning Strings
+- Returning Strings
 
 
 Week 3:  8KYU
