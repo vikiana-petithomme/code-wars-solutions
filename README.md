@@ -38,6 +38,13 @@ Week 8: 8KYU
 - Filling an array (part 1)
 - Week 5: 7KYU
 
-WEEK 9: 7KYU
+WEEK 9: 7KYU & 8KYU
 - Vowel Count
 - List Filtering
+- You're a Square
+- Removing Elements (8kyu)
+- Calculate BMI (8kyu)
+
+
+WEEK 10: 7KYU
+- Shortest Word
