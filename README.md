@@ -48,3 +48,4 @@ WEEK 9: 7KYU & 8KYU
 
 WEEK 10: 7KYU
 - Shortest Word
+- Reverse Words
