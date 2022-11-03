@@ -51,3 +51,9 @@ WEEK 10: 7KYU
 - Reverse Words
 - Growth Of A Population
 - Disemvowel Trolls
+- Square Every Digit
+
+WEEK 11: 7KYU
+- Vowel One
+- String Ends With?
+- Debug Sum of Digists of A Number
