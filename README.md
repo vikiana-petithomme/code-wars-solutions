@@ -53,7 +53,9 @@ WEEK 10: 7KYU
 - Disemvowel Trolls
 - Square Every Digit
 
-WEEK 11: 7KYU
+WEEK 11: 7KYU & 6KYU
 - Vowel One
 - String Ends With?
-- Debug Sum of Digists of A Number
+- Debug Sum of Digits of A Number
+- Multiples of 3 or 5 (6kyu)
+- Create Phone Number (6kyu)
