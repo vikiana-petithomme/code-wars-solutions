@@ -59,3 +59,6 @@ WEEK 11: 7KYU & 6KYU
 - Debug Sum of Digits of A Number
 - Multiples of 3 or 5 (6kyu)
 - Create Phone Number (6kyu)
+
+Week 12:
+- Who Likes It?(6kyu)
