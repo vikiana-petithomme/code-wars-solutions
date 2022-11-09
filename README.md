@@ -61,4 +61,5 @@ WEEK 11: 7KYU & 6KYU
 - Create Phone Number (6kyu)
 
 Week 12:
-- Who Likes It?(6kyu)
+- Who Likes It? (6kyu)
+- Array.diff (6kyu)
