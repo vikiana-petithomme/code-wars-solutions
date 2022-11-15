@@ -60,7 +60,13 @@ WEEK 11: 7KYU & 6KYU
 - Multiples of 3 or 5 (6kyu)
 - Create Phone Number (6kyu)
 
-Week 12:
+Week 12: 6KYU
 - Who Likes It? (6kyu)
 - Array.diff (6kyu)
 - Your order, please (6kyu)
+- Stop Spinning my Words (6kyu)
+- Find Odd Int (6kyu)
+
+Week 13: 6KYU
+
+- Find The Parity Outlier (6kyu)
