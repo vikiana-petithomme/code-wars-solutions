@@ -71,3 +71,4 @@ Week 13: 6KYU
 
 - Find The Parity Outlier (6kyu)
 - Duplicate Encoder (6kyu)
+- Counting Duplicates (6kyu)
